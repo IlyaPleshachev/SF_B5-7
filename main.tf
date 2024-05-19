@@ -12,8 +12,8 @@ terraform {
     bucket     = "tf-state-bucket-mentor-ilya"
     region     = "ru-central1"
     key        = "issue1/lemp.tfstate"
-    access_key = "YCAJEE13vMsch3ABCr77WjYya"
-    secret_key = "YCO2UgefSRSJDqiLysKmNzuXFkoKOOg4p6zX7yn4"
+    access_key = "<key>"
+    secret_key = "<key>"
 
     skip_region_validation      = true
     skip_credentials_validation = true
